@@ -19,7 +19,7 @@ DOMAIN-KEYWORD,hsbc
 DOMAIN-KEYWORD,bochk
 DOMAIN-KEYWORD,hangseng
 DOMAIN-KEYWORD,1password
-DOMAIN-KEYWORD,64.44.61.92
+IP-CIDR,64.44.61.92
 DOMAIN-SUFFIX,racknerd.lance-link.com
 DOMAIN-SUFFIX,rocket-chat.lance-link.com
 DOMAIN-KEYWORD,ugreen
