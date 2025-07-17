@@ -1,3 +1,4 @@
+#openai
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-SUFFIX,auth0.com
@@ -18,6 +19,7 @@ DOMAIN-SUFFIX,chatgpt.com
 PROCESS-NAME,Claude
 PROCESS-NAME,Claude Helper
 DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,anthropic
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,usefathom.com
@@ -40,8 +42,10 @@ DOMAIN-SUFFIX,grok.com
 
 #perplexity.ai
 DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-KEYWORD,perplexity
 
 #Google Gemini 
+DOMAIN-KEYWORD,gemini
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
@@ -62,3 +66,10 @@ DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,clients6.google.com
+
+#cursor
+DOMAIN-KEYWORD,cursor
+
+#Augment Code
+DOMAIN-KEYWORD,augmentcode
+
