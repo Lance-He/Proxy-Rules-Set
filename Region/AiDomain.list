@@ -75,3 +75,6 @@ DOMAIN-KEYWORD,augmentcode
 
 #检查节点
 DOMAIN,ai-ip.checkmyip.shop
+
+#other
+DOMAIN-SUFFIX,smithery.ai
