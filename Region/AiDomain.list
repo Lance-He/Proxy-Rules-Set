@@ -73,3 +73,5 @@ DOMAIN-KEYWORD,cursor
 #Augment Code
 DOMAIN-KEYWORD,augmentcode
 
+#检查节点
+DOMAIN,ai-ip.checkmyip.shop
